@@ -1,1 +1,2 @@
-# Redditprob
+I'm trying to have a movable slider that has it's value displayed. I'm also using a button that when pressed, where depending on the value you left on the slider, will show a certain image. For example, when the slider is at 33 or less, I want the button to display a neutral face. 
+The current problem is that the value is displaying and the images aren't working. I'm not too experienceed with Javascript so I don't know what the problem is or how to fix it so any suggestion would be appreciated.
